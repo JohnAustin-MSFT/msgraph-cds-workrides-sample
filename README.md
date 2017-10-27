@@ -42,6 +42,8 @@ Please follow through the links provided below to learn how the individual piece
 
 <img src="./media/workridesTech.jpg" Height="80%" Width="80%" />
 
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
 ## Learn more
 - [Microsoft Graph](https://graph.microsoft.com "Microsoft Graph")
 - [Microsoft Common Data Service](https://aka.ms/CommonDataService "Microsoft Common Data Service")
